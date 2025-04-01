@@ -20,6 +20,7 @@ public class Cazarrecompensas extends Personaje {
     
     /**
      * Estilo de esgrima que domina el cazarrecompensas..
+     * Otro commmit try
      */
     protected String estiloEsgrima;
     
