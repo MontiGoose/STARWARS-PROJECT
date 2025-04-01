@@ -13,7 +13,7 @@ package lucasfilms;
  */
 public interface SerGalactico {
     /**
-     * Muestra la información básica del ser galáctico, tales como nombre, especie o afiliación.
+     * Muestra la información básica del ser galáctico, tales como nombre, especie o afiliación..
      */
     void mostrarInfo();
 

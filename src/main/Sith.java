@@ -4,7 +4,7 @@ package lucasfilms;
  * Clase que representa a un Sith en el universo de Star Wars.
  * <p>
  * Esta clase extiende de {@link Personaje} y define atributos y comportamientos
- * propios de un Sith.
+ * propios de un Sith..
  * </p>
  *
  * @author

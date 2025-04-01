@@ -39,7 +39,7 @@ public class Cazarrecompensas extends Personaje {
     }
     
     /**
-     * Permite al cazarrecompensas usar su habilidad especial.
+     * Permite al cazarrecompensas usar su habilidad especial..
      * <p>
      * Al invocar este método se imprime en consola un mensaje que indica que el 
      * cazarrecompensas rastrea a su objetivo con una precisión única.

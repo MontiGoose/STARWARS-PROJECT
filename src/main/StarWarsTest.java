@@ -14,7 +14,7 @@ public class StarWarsTest {
      * características de cada uno.
      * </p>
      *
-     * @param args Los argumentos de línea de comandos (no se utilizan en este programa).
+     * @param args Los argumentos de línea de comandos (no se utilizan en este programa)..
      */
     public static void main(String[] args) {
         Jedi luke = new Jedi("Luke Skywalker", "Humano", "Verde", "Iai");

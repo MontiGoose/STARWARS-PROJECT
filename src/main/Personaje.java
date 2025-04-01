@@ -4,7 +4,7 @@ package lucasfilms;
  * Clase base abstracta que representa a un personaje en el universo de Star Wars.
  * <p>
  * Esta clase implementa la interfaz {@link SerGalactico} y establece la estructura
- * esencial para todos los personajes en la saga.
+ * esencial para todos los personajes en la saga..
  * </p>
  *
  * @author 
