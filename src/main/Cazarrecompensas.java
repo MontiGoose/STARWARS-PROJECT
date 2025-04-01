@@ -18,7 +18,7 @@ public class Cazarrecompensas extends Personaje {
     private String armaFavorita;
     
     /**
-     * Estilo de esgrima que domina el cazarrecompensas.
+     * Estilo de esgrima que domina el cazarrecompensas..
      */
     protected String estiloEsgrima;
     
