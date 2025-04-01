@@ -13,6 +13,7 @@ package lucasfilms;
 public class Cazarrecompensas extends Personaje {
 
     /**
+     * Comentario para commit
      * Arma favorita utilizada por este cazarrecompensas.
      */
     private String armaFavorita;
