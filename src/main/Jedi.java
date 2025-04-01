@@ -12,6 +12,7 @@ package lucasfilms;
 public class Jedi extends Personaje {
 
     /**
+     * Este comentario me permitira hacer un pull.
      * Color del sable láser que utiliza el Jedi..
      */
     private String colorSable;
